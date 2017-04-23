@@ -2,7 +2,6 @@ import json
 import urllib2
 import sys
 
-
 search = True
 while (search):
     print '\033[1m' + "Please enter a zipcode or city name:";
